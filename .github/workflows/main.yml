@@ -7,7 +7,7 @@ on:
   workflow_dispatch: # Allow manual run
   push:
     branches:
-      - master
+      - main 
 
 jobs:
   generate:
